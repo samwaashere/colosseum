@@ -3,7 +3,7 @@
 An experimental programming environment featuring:
 
 - A well-typed JS-based functional programming language
-- A terminal-based IDE with a column-based navigation model that makes programming fun
+- A terminal-based IDE with a unique columnar navigation model that makes programming fun
 - Debugging tools from the future
 - Execute a single command to create new shared packages
 - Discover & install new packages without risking your organizations security. 
